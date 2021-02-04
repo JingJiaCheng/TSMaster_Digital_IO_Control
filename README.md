@@ -1,4 +1,4 @@
-# TSMaster_OSEK_NM_test
+# TSMaster Digital IO Control
 OSEK direct NM test scripts
 
 Using TSMaster test system to test nm features;
